@@ -29,4 +29,4 @@ Em janeiro deste ano dei o primeiro passo e iniciei o curso de Desenvolvimento d
 
 ## ⭐ Informações sobre minha conta GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milecruz26&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=milecruz26&count_private=true&theme=radical&show_icons=true)

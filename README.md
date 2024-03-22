@@ -1,10 +1,8 @@
 ## 💜 Olá, meu nome é <strong>Jamile Cruz!</strong>
 
-> Sou uma cearense publicitária apaixonada por games e neste ano iniciei a minha transição de carreira para área de tecnologia.
+Sou publicitária de formação, sempre trabalhei com equipes multidisciplinares, planejamento estratégico, bastante criatividade e responsabilidades de autogestão e organização. Esse é um dos diferenciais que levo para minha jornada como desenvolvedora, além das minhas habilidades técnicas que adquiri, como conhecimento em: JavaScript, TypeScript, React, Vite.js, integração com API Rest utilizando Axios, Next.js, Git, banco de dados PostgreSQL, node.js, Angular, express.js, HTML, CSS, Material-ui e Tailwind CSS.
 
-Trabalhei durante 6 anos com marketing digital atuando como Social Media, Produtora de Conteúdo e Copywriter em agências de publicidade em Fortaleza, mas sempre tive vontade de migrar para carreira de tecnologia com o desejo de trabalhar com jogos.
-
-Em janeiro deste ano dei o primeiro passo e iniciei o curso de Desenvolvimento de Software FullStack pela Cubos Academy. Na minha carreira anterior sempre trabalhei com equipes multidisciplinares, com planejamento estratégico, bastante criatividade e responsabilidade de autogestão e organização, e essa experiência com certeza me ajudará na minha nova jornada como Dev.
+Adoro ajudar os outros, enfrentar novos desafios e pensar em soluções criativas para resolver os problemas de maneira mais objetiva possível. O que destaca minha versatilidade em atuar em ambientes dinâmicos, já que trabalhei durante 6 anos em agências. Estou sempre disposta a aprender, buscando constantemente expandir meus conhecimentos e colaborar em projetos desafiadores. 
 
 💌 Quer saber mais? Entre em contato comigo:
 <p align="left">

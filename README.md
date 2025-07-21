@@ -1,8 +1,10 @@
 ## 💜 Olá, meu nome é <strong>Jamile Cruz!</strong>
 
-Sou publicitária de formação, sempre trabalhei com equipes multidisciplinares, planejamento estratégico, bastante criatividade e responsabilidades de autogestão e organização. Esse é um dos diferenciais que levo para minha jornada como desenvolvedora, além das minhas habilidades técnicas que adquiri, como conhecimento em: JavaScript, TypeScript, React, Vite.js, integração com API Rest utilizando Axios, Next.js, Git, banco de dados PostgreSQL, node.js, Angular, express.js, HTML, CSS, Material-ui e Tailwind CSS.
+Olá! Eu sou desenvolvedora front-end, trabalho principalmente com JavaScript, TypeScript, React, Vite.Js, Next.js, TailwindCSS, Material-UI, Shadcn. Além disso, estou trabalhando com Wordpress, elementor e estudando php.
 
-Adoro ajudar os outros, enfrentar novos desafios e pensar em soluções criativas para resolver os problemas de maneira mais objetiva possível. O que destaca minha versatilidade em atuar em ambientes dinâmicos, já que trabalhei durante 6 anos em agências. Estou sempre disposta a aprender, buscando constantemente expandir meus conhecimentos e colaborar em projetos desafiadores. 
+Atualmente sou front-end na Noomad Global, durante esse período já concluí um projeto inteiro de front para IVI Energia, landing page para Embraer entre outros projetos em Wordpress.
+
+Tenho uma pós-graduação em Engenharia de Software pela Faculdade Descomplica e atualmente estudo Engenharia de Software na Wyden e React Native na DIO.
 
 💌 Quer saber mais? Entre em contato comigo:
 <p align="left">
